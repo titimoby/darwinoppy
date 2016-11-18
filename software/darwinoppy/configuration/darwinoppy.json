@@ -1,0 +1,47 @@
+{
+  "controllers": {},
+  "motorgroups": {},
+  "motors": {
+    "r_ankle_y": {
+      "offset": 0,
+      "type": "XL-320",
+      "id": 13,
+      "angle_limit": [
+        -6,
+        72
+      ],
+      "orientation": "direct"
+    },
+    "l_ankle_y": {
+      "offset": 0,
+      "type": "XL-320",
+      "id": 14,
+      "angle_limit": [
+        -76,
+        4
+      ],
+      "orientation": "direct"
+    },
+    "r_ankle_x": {
+      "offset": 0,
+      "type": "XL-320",
+      "id": 15,
+      "angle_limit": [
+        -42,
+        38
+      ],
+      "orientation": "direct"
+    },
+    "l_ankle_x": {
+      "offset": 0,
+      "type": "XL-320",
+      "id": 16,
+      "angle_limit": [
+        -35,
+        72
+      ],
+      "orientation": "direct"
+    }
+  },
+  "sensors": {}
+}

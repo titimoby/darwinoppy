@@ -1,1 +1,0 @@
-from poppy_skeleton import PoppySkeleton

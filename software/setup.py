@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 
-setup(name='poppy-skeleton',
+setup(name='darwinoppy',
       version='TO BE COMPLETED',
       packages=find_packages(),
 

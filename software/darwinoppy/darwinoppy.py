@@ -1,7 +1,7 @@
 from poppy.creatures import AbstractPoppyCreature
 
 
-class PoppySkeleton(AbstractPoppyCreature):
+class Darwinoppy(AbstractPoppyCreature):
     @classmethod
     def setup(cls, robot):
         # Here is where you can customize your robot
