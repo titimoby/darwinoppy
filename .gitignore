@@ -60,3 +60,7 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# pyenv files
+#software/tools/.python-version
+.python-version
