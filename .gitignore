@@ -64,3 +64,5 @@ target/
 # pyenv files
 #software/tools/.python-version
 .python-version
+
+.AppleDouble
