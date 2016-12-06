@@ -41,161 +41,161 @@
   "motors": {
     "r_shoulder_y": {
       "angle_limit": [
-        -146,
-        125
+        -146.0,
+        125.0
       ],
       "id": 1,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "l_hip_y": {
       "angle_limit": [
-        -29,
-        93
+        -29.0,
+        93.0
       ],
       "id": 10,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "r_knee_y": {
       "angle_limit": [
-        9,
-        93
+        9.0,
+        93.0
       ],
       "id": 11,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "l_knee_y": {
       "angle_limit": [
-        -94,
-        -5
+        -94.0,
+        -5.0
       ],
       "id": 12,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "r_ankle_y": {
       "angle_limit": [
-        -4,
-        80
+        -4.0,
+        80.0
       ],
       "id": 13,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "l_ankle_y": {
       "angle_limit": [
-        -81,
-        4
+        -81.0,
+        4.0
       ],
       "id": 14,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "r_ankle_x": {
       "angle_limit": [
-        -77,
-        78
+        -77.0,
+        78.0
       ],
       "id": 15,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "l_ankle_x": {
       "angle_limit": [
-        -55,
-        69
+        -55.0,
+        69.0
       ],
       "id": 16,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "l_shoulder_y": {
       "angle_limit": [
-        -105,
-        82
+        -105.0,
+        82.0
       ],
       "id": 2,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "r_shoulder_x": {
       "angle_limit": [
-        -89,
-        40
+        -89.0,
+        40.0
       ],
       "id": 3,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "l_shoulder_x": {
       "angle_limit": [
-        -46,
-        76
+        -46.0,
+        76.0
       ],
       "id": 4,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "r_elbow_x": {
       "angle_limit": [
-        -1,
-        128
+        -1.0,
+        128.0
       ],
       "id": 5,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "l_elbow_x": {
       "angle_limit": [
-        -48,
-        81
+        -48.0,
+        81.0
       ],
       "id": 6,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "r_hip_x": {
       "angle_limit": [
-        -88,
-        3
+        -88.0,
+        3.0
       ],
       "id": 7,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "l_hip_x": {
       "angle_limit": [
-        1,
-        99
+        1.0,
+        99.0
       ],
       "id": 8,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     },
     "r_hip_y": {
       "angle_limit": [
-        -97,
-        20
+        -97.0,
+        20.0
       ],
       "id": 9,
-      "offset": 0,
+      "offset": 0.0,
       "orientation": "direct",
       "type": "XL-320"
     }
