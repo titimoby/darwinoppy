@@ -1,7 +1,7 @@
 {
   "controllers": {
     "my_dxl_controller": {
-      "sync_read": true,
+      "sync_read": false,
       "protocol": 2,
       "attached_motors": [
         "r_leg",
